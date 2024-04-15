@@ -1,3 +1,9 @@
+'''
+A program used to calculate nthe cheapest shipping option given a set of variables.
+Use of if, else if (elif) and else statements for flow control.
+Notes for extra code that would make the overall logic of the program run a bit smoother.
+'''
+
 weight = 12.5
 premium = 125.00
 #method = input("Shipping method: ")
