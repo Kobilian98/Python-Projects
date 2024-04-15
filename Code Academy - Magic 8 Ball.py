@@ -1,3 +1,8 @@
+'''
+A simple project using the random module to imitate a magic 8 ball.
+Use of if and else if (elif) statements for flow control.
+'''
+
 import random
 
 name = ""
